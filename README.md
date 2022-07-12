@@ -44,7 +44,8 @@ Selected books which I read or listen to.
 
 ## Product Development
 
-- [ ] [Inspired](https://www.amazon.de/-/en/Marty-Cagan-ebook/dp/B077NRB36N)
+- [x] [Loonshots](https://www.audible.de/pd/Loonshots-Hoerbuch/1250203058?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
+- [x] [Inspired](https://www.amazon.de/-/en/Marty-Cagan-ebook/dp/B077NRB36N)
 - [ ] [EMPOWERED: Ordinary People, Extraordinary Products](https://www.amazon.de/-/en/gp/product/B08LPKRD5L?notRedirectToSDP=1&ref_=dbs_mng_calw_1&storeType=ebooks)
 
 
@@ -80,7 +81,6 @@ Selected books which I read or listen to.
 - [x] [Sapiens](https://www.audible.de/pd/Sapiens-Hoerbuch/B0741DZHR9?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
 - [x] [21 Lessons for the 21st Century](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179)
 - [x] [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1656408203&sr=1-1)
-- [x] [Loonshots](https://www.audible.de/pd/Loonshots-Hoerbuch/1250203058?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
 
 
 ## Self Development
