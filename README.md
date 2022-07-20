@@ -81,14 +81,12 @@ Selected books which I read or listen to.
 - [x] [Sapiens](https://www.audible.de/pd/Sapiens-Hoerbuch/B0741DZHR9?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
 - [x] [21 Lessons for the 21st Century](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179)
 - [x] [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1656408203&sr=1-1)
+- [ ] [Why Nations Fail: The Origins of Power, Prosperity, and Poverty](https://www.amazon.de/-/en/Daron-Acemoglu/dp/1846684307/ref=sr_1_1?keywords=Why+Nations+Fail%3A+The+Origins+of+Power%2C+Prosperity%2C+and+Poverty&qid=1658310790&sr=8-1)
 
 
 ## Self Development
 
+- [x] [Thinking in Systems](https://www.amazon.de/-/en/Diana-Wright/dp/1603580557)
 - [x] [Atomic Habits](https://www.audible.de/pd/Atomic-Habits-Hoerbuch/1524779261?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
 - [x] [The Subtle Art of Not Giving a F*ck](https://www.audible.de/pd/The-Subtle-Art-of-Not-Giving-a-F-ck-Hoerbuch/B01KMIPK4A?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
 
---------
-
-- [ ] []()
-- [x] []()
