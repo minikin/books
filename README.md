@@ -46,7 +46,7 @@ Selected books which I read or listen to.
 
 - [x] [Loonshots](https://www.audible.de/pd/Loonshots-Hoerbuch/1250203058?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
 - [x] [Inspired](https://www.amazon.de/-/en/Marty-Cagan-ebook/dp/B077NRB36N)
-- [ ] [EMPOWERED: Ordinary People, Extraordinary Products](https://www.amazon.de/-/en/gp/product/B08LPKRD5L?notRedirectToSDP=1&ref_=dbs_mng_calw_1&storeType=ebooks)
+- [x] [EMPOWERED: Ordinary People, Extraordinary Products](https://www.amazon.de/-/en/gp/product/B08LPKRD5L?notRedirectToSDP=1&ref_=dbs_mng_calw_1&storeType=ebooks)
 
 
 ## Software Engineering and Craftsmanship
