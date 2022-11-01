@@ -29,8 +29,8 @@ Selected books which I read or listen to.
 - [x] [Give and Take](https://www.audible.de/pd/Give-and-Take-Hoerbuch/B07F7D58SW?ref=a_author_Ad_c9_lProduct_1_3&pf_rd_p=51641935-558c-4c8b-84f3-34bc21b28306&pf_rd_r=JYQ1EVJVG6FR1M7BJCBF)
 - [ ] [The Motive: Why So Many Leaders Abdicate Their Most Important Responsibilities](https://www.amazon.de/-/en/gp/product/1119600456/ref=ox_sc_saved_image_5?smid=A3JWKAKR8XB7XF&psc=1)
 - [ ] [The Art of Leadership: Small Things](https://www.amazon.de/-/en/gp/product/1492045691/ref=ox_sc_saved_image_8?smid=A3JWKAKR8XB7XF&psc=1)
-- [ ] [Option B](https://www.audible.de/pd/Option-B-Hoerbuch/B06Y15MP7K?ref=a_author_Ad_c9_lProduct_1_4&pf_rd_p=51641935-558c-4c8b-84f3-34bc21b28306&pf_rd_r=JYQ1EVJVG6FR1M7BJCBF)
-- [ ] [Start with Why](https://www.audible.de/pd/Start-with-Why-Hoerbuch/B074VF87MK?ref=a_author_Si_c9_lProduct_1_2&pf_rd_p=51641935-558c-4c8b-84f3-34bc21b28306&pf_rd_r=M6D6Z0WYGG5XKKN2BJM1)
+- [x] [Option B](https://www.audible.de/pd/Option-B-Hoerbuch/B06Y15MP7K?ref=a_author_Ad_c9_lProduct_1_4&pf_rd_p=51641935-558c-4c8b-84f3-34bc21b28306&pf_rd_r=JYQ1EVJVG6FR1M7BJCBF)
+- [x] [Start with Why](https://www.audible.de/pd/Start-with-Why-Hoerbuch/B074VF87MK?ref=a_author_Si_c9_lProduct_1_2&pf_rd_p=51641935-558c-4c8b-84f3-34bc21b28306&pf_rd_r=M6D6Z0WYGG5XKKN2BJM1)
 - [ ] [Find Your Why](https://www.audible.de/pd/Find-Your-Why-Hoerbuch/B0754LB1R8?ref=a_author_Si_c9_lProduct_1_8&pf_rd_p=51641935-558c-4c8b-84f3-34bc21b28306&pf_rd_r=M6D6Z0WYGG5XKKN2BJM1)
 
 ## Lead The Team
