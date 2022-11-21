@@ -40,6 +40,7 @@ Selected books which I read or listen to.
 - [x] [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.de/-/en/Matthew-Skelton/dp/1942788819)
 - [x] [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.de/-/en/Michael-Lopp/dp/1484221575/ref=msx_wsirn_v1_sccl_1_1/260-4979270-3675118?pd_rd_w=iUZFo&content-id=amzn1.sym.da7e1c5e-3ea3-4a16-ba7f-db31c9579775&pf_rd_p=da7e1c5e-3ea3-4a16-ba7f-db31c9579775&pf_rd_r=QNEF1HR2W30ZWYBW8RPM&pd_rd_wg=za35q&pd_rd_r=332f3a0c-29ba-4c38-8a01-04cfc45c27ae&pd_rd_i=1484221575&psc=1)
 - [x] [The Culture Code](https://www.audible.de/pd/The-Culture-Code-Hoerbuch/B0789YLNXY?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
+- [ ] [Engineering Management for the Rest of Us](https://www.amazon.de/-/en/gp/product/B0BHX6NLGZ/ref=ox_sc_saved_image_1?smid=A2O0NLZPCZ5AO5&psc=1)
 - [ ] [Peopleware: Productive Projects and Teams](https://www.amazon.de/-/en/gp/product/0321934113/ref=ox_sc_saved_image_7?smid=A3JWKAKR8XB7XF&psc=1)
 
 ## Product Development
