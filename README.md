@@ -61,6 +61,8 @@ Selected books which I read or listen to.
 - [x] [Working in Public](https://www.audible.de/pd/Working-in-Public-Hoerbuch/B08KWNYH6K?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
 - [x] [Designing Data-Intensive Applications](https://www.audible.de/pd/Designing-Data-Intensive-Applications-Hoerbuch/B08VL79B2C?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
 - [x] [The Programmer's Brain](https://www.audible.de/pd/The-Programmers-Brain-Hoerbuch/B09NDXLYR6?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=RCDF31HSE7HVJBH1G5MT)
+- [ ] [Software Engineering at Google](https://www.audible.de/pd/Software-Engineering-at-Google-Hoerbuch/B08VKYVDXG?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=W97NMF3798XABQZB1QFX)
+- [ ] [The Programmer's Brain](https://www.audible.de/pd/The-Programmers-Brain-Hoerbuch/B09NDXLYR6?ref=a_library_t_c5_libItem_&pf_rd_p=86298143-6994-4968-8277-2e2391d86bbd&pf_rd_r=W97NMF3798XABQZB1QFX)
 - [ ] [The Mythical Man-Month. Essays on Software Engineering](https://www.amazon.de/-/en/gp/product/0201835959/ref=ox_sc_saved_image_4?smid=A3JWKAKR8XB7XF&psc=1)
 - [ ] [Building Mobile Apps at Scale: 39 Engineering Challenges](https://www.amazon.de/-/en/gp/product/1638778868/ref=ox_sc_saved_image_4?smid=A3JWKAKR8XB7XF&psc=1)
 
